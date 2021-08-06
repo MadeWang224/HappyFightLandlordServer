@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\UnityProject\\HappyFightLandlord\\GameServer\\GameServer\\GameServer.csproj": {}
+  },
+  "projects": {
+    "E:\\UnityProject\\HappyFightLandlord\\GameServer\\AhpilyServer\\AhpilyServer.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\UnityProject\\HappyFightLandlord\\GameServer\\AhpilyServer\\AhpilyServer.csproj",
+        "projectName": "AhpilyServer",
+        "projectPath": "E:\\UnityProject\\HappyFightLandlord\\GameServer\\AhpilyServer\\AhpilyServer.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\UnityProject\\HappyFightLandlord\\GameServer\\GameServer\\GameServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\UnityProject\\HappyFightLandlord\\GameServer\\GameServer\\GameServer.csproj",
+        "projectName": "GameServer",
+        "projectPath": "E:\\UnityProject\\HappyFightLandlord\\GameServer\\GameServer\\GameServer.csproj",
+        "packagesPath": "C:\\Users\\wzc\\.nuget\\packages\\",
+        "outputPath": "E:\\UnityProject\\HappyFightLandlord\\GameServer\\GameServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wzc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\UnityProject\\HappyFightLandlord\\GameServer\\AhpilyServer\\AhpilyServer.csproj": {
+                "projectPath": "E:\\UnityProject\\HappyFightLandlord\\GameServer\\AhpilyServer\\AhpilyServer.csproj"
+              },
+              "E:\\UnityProject\\HappyFightLandlord\\GameServer\\Protocol\\Protocol.csproj": {
+                "projectPath": "E:\\UnityProject\\HappyFightLandlord\\GameServer\\Protocol\\Protocol.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\UnityProject\\HappyFightLandlord\\GameServer\\Protocol\\Protocol.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\UnityProject\\HappyFightLandlord\\GameServer\\Protocol\\Protocol.csproj",
+        "projectName": "Protocol",
+        "projectPath": "E:\\UnityProject\\HappyFightLandlord\\GameServer\\Protocol\\Protocol.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

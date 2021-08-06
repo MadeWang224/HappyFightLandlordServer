@@ -1,0 +1,6 @@
+E:\UnityProject\HappyFightLandlord\HappyFightLandlord\Assets\Plugins\Protocol.dll
+E:\UnityProject\HappyFightLandlord\HappyFightLandlord\Assets\Plugins\Protocol.pdb
+E:\UnityProject\HappyFightLandlord\GameServer\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+E:\UnityProject\HappyFightLandlord\GameServer\Protocol\obj\Debug\Protocol.dll
+E:\UnityProject\HappyFightLandlord\GameServer\Protocol\obj\Debug\Protocol.pdb
+E:\UnityProject\HappyFightLandlord\GameServer\Protocol\obj\Debug\Protocol.csprojAssemblyReference.cache

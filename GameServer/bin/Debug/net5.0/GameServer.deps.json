@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GameServer/1.0.0": {
+        "dependencies": {
+          "AhpilyServer": "1.0.0",
+          "Protocol": "1.0.0"
+        },
+        "runtime": {
+          "GameServer.dll": {}
+        }
+      },
+      "AhpilyServer/1.0.0": {
+        "runtime": {
+          "AhpilyServer.dll": {}
+        }
+      },
+      "Protocol/1.0.0": {
+        "runtime": {
+          "Protocol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AhpilyServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Protocol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

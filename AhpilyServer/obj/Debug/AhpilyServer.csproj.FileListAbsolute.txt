@@ -1,0 +1,6 @@
+E:\UnityProject\HappyFightLandlord\GameServer\AhpilyServer\bin\Debug\AhpilyServer.dll
+E:\UnityProject\HappyFightLandlord\GameServer\AhpilyServer\bin\Debug\AhpilyServer.pdb
+E:\UnityProject\HappyFightLandlord\GameServer\AhpilyServer\obj\Debug\AhpilyServer.csproj.CoreCompileInputs.cache
+E:\UnityProject\HappyFightLandlord\GameServer\AhpilyServer\obj\Debug\AhpilyServer.dll
+E:\UnityProject\HappyFightLandlord\GameServer\AhpilyServer\obj\Debug\AhpilyServer.pdb
+E:\UnityProject\HappyFightLandlord\GameServer\AhpilyServer\obj\Debug\AhpilyServer.csprojAssemblyReference.cache
